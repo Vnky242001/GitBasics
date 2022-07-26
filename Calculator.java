@@ -11,4 +11,7 @@ public class Calculator{
 	public void modulous(int a, int b){
 		System.out.println(a%b);
 	}
+	public void greeting(){
+		System.out.println("Hello");
+	}
 }
